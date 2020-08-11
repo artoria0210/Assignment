@@ -162,82 +162,82 @@
         android:layout_height="40dp"
         android:layout_marginStart="4dp"
         android:layout_marginLeft="4dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginRight="8dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginRight="4dp"
         android:text="@string/myProfileText"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button7"
-        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintHorizontal_bias="0.384"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button4"
-        app:layout_constraintVertical_bias="0.523" />
+        app:layout_constraintVertical_bias="1.0" />
 
     <Button
         android:id="@+id/button7"
         android:layout_width="67dp"
         android:layout_height="40dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginRight="8dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginRight="4dp"
         android:text="@string/orderHistoryText"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button3"
         app:layout_constraintTop_toBottomOf="@+id/button4"
-        app:layout_constraintVertical_bias="0.523" />
+        app:layout_constraintVertical_bias="1.0" />
 
     <Button
         android:id="@+id/button3"
         android:layout_width="80dp"
         android:layout_height="40dp"
-        android:layout_marginTop="40dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginRight="8dp"
+        android:layout_marginTop="84dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginRight="4dp"
         android:text="@string/registerForBusinessText"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button8"
         app:layout_constraintTop_toBottomOf="@+id/button4"
-        app:layout_constraintVertical_bias="0.09" />
+        app:layout_constraintVertical_bias="0.0" />
 
     <Button
         android:id="@+id/button5"
         android:layout_width="67dp"
         android:layout_height="40dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginRight="8dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginRight="4dp"
         android:text="@string/customerServicesText"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button9"
         app:layout_constraintTop_toBottomOf="@+id/button4"
-        app:layout_constraintVertical_bias="0.523" />
+        app:layout_constraintVertical_bias="1.0" />
 
     <Button
         android:id="@+id/button8"
         android:layout_width="67dp"
         android:layout_height="40dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginRight="8dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginRight="4dp"
         android:text="@string/aboutUsText"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button5"
         app:layout_constraintTop_toBottomOf="@+id/button4"
-        app:layout_constraintVertical_bias="0.523" />
+        app:layout_constraintVertical_bias="1.0" />
 
     <Button
         android:id="@+id/button9"
         android:layout_width="57dp"
         android:layout_height="40dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginRight="8dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginRight="4dp"
         android:text="@string/homeText"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button4"
-        app:layout_constraintVertical_bias="0.523" />
+        app:layout_constraintVertical_bias="1.0" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
