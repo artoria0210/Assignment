@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="myProfileText">My Profile</string>
+    <string name="orderHistoryText">Order History</string>
+    <string name="registerForBusinessText">Register for Business</string>
+    <string name="aboutUsText">About us</string>
+    <string name="customerServicesText">Customer Services</string>
+    <string name="homeText">Home</string>
+    <string name="registerForBuinessText">Register for Business</string>
+</resources>
