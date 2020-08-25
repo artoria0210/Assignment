@@ -6,4 +6,12 @@
     <string name="aboutUsText">About us</string>
     <string name="customerServicesText">Customer Services</string>
     <string name="homeText">Home</string>
+    <string name="phoneNumber">Phone Number eg(0123456789)</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="phone_number_eg_0123456789">Phone number(eg:0123456789)</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="phone_number_eg0123456789">Phone number(eg0123456789)</string>
 </resources>
